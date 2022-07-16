@@ -1,0 +1,2 @@
+export * from 'C:/Users/rodri/Desktop/Web projects VUE Node.js/websocket/nuxt-internal-socket/src/module';
+export { default } from 'C:/Users/rodri/Desktop/Web projects VUE Node.js/websocket/nuxt-internal-socket/src/module';
