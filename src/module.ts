@@ -28,8 +28,6 @@ export default defineNuxtModule<ModuleOptions>({
       options.socketFunctions(io);
     })
 
-
-
     
     const runtimeDir = fileURLToPath(new URL('./runtime', import.meta.url))
     nuxt.options.build.transpile.push(runtimeDir)
